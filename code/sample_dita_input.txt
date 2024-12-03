@@ -1,0 +1,32 @@
+Chapter 1. scanner Patch
+
+v.022 Code Update Instructions for Use with scanner 90000
+
+This code update package provides instructions to perform scanner Update from v.019 to Patch v.022.
+
+
+BEFORE BEGINNING THIS UPDATE
+
+Attention:
+scanner v.022 requires BOS version .123 and UI version .008. It also requires Windows 10 or Windows 11 with 128GB of RAM.
+
+Tasks performed in this update
+1. BEFORE BEGINNING THIS UPDATE (on page 3)
+	a. Confirming that the external USB hard drive is formatted as NTFS (on page 4)
+	b. Determining the current scanner version (on page 5)
+	c. Backing up scanner user data and licenses (on page 7)
+		▪ Running backup.bat as administrator (on page 8)
+		▪ Confirming that the backup completed successfully (on page 10)
+
+2. Downloading and extracting the RiPSO code for a patch update (on page 13)
+
+3. Checking the NVIDIA driver version (on page 15)
+
+4. Running Update.bat (on page 16)
+
+5. Confirming the update (on page 20)
+
+6. Creating a Windows system image (on page 22)
+
+Files downloaded in this update
+The server for which you will download the files depends on your location
